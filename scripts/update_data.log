@@ -1,0 +1,103 @@
+2025-04-09 00:52:59,095 - update_script - INFO - Starting data update process
+2025-04-09 00:52:59,096 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 00:52:59,780 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 00:52:59,781 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 00:52:59,782 - update_script - INFO - Transformed 250 Pokémon cards
+2025-04-09 00:53:18,487 - update_script - INFO - Starting data update process
+2025-04-09 00:53:18,487 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 00:53:19,146 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 00:53:19,146 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 00:53:19,174 - update_script - INFO - Transformed 250 Pokémon cards
+2025-04-09 00:54:25,258 - update_script - INFO - Starting data update process
+2025-04-09 00:54:25,258 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 00:54:25,991 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 00:54:25,991 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 00:54:25,991 - update_script - ERROR - Error transforming Pokémon card data: 'Card' object has no attribute 'keys'
+2025-04-09 00:54:25,991 - update_script - ERROR - Data transformation resulted in no records. Exiting.
+2025-04-09 00:55:39,256 - update_script - INFO - Starting data update process
+2025-04-09 00:55:39,257 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 00:55:39,972 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 00:55:39,972 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 00:55:39,972 - update_script - ERROR - Error transforming Pokémon card data: 'Card' object has no attribute 'info'
+2025-04-09 00:55:39,973 - update_script - ERROR - Data transformation resulted in no records. Exiting.
+2025-04-09 00:55:57,077 - update_script - INFO - Starting data update process
+2025-04-09 00:55:57,078 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 00:55:57,824 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 00:55:57,825 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 00:55:57,915 - update_script - INFO - Transformed 250 Pokémon cards
+2025-04-09 00:59:18,657 - update_script - INFO - Starting data update process
+2025-04-09 00:59:18,657 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 00:59:25,876 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 00:59:25,876 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 00:59:25,877 - update_script - ERROR - Error transforming Pokémon card data: Object of type TCGPlayer is not JSON serializable
+2025-04-09 00:59:25,877 - update_script - ERROR - Data transformation resulted in no records. Exiting.
+2025-04-09 01:03:02,901 - update_script - INFO - Starting data update process
+2025-04-09 01:03:02,901 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:03:10,168 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 01:03:10,168 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:03:10,234 - update_script - INFO - Transformed 250 Pokémon cards
+2025-04-09 01:06:15,809 - update_script - INFO - Starting data update process
+2025-04-09 01:06:15,809 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:06:23,085 - update_script - INFO - Successfully fetched 250 Pokémon cards
+2025-04-09 01:06:23,085 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:06:23,087 - update_script - INFO - Transformed 250 Pokémon cards
+2025-04-09 01:14:30,933 - update_script - INFO - Starting data update process
+2025-04-09 01:14:30,934 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:14:32,703 - update_script - INFO - Successfully fetched 32 Pokémon cards
+2025-04-09 01:14:32,704 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:14:32,704 - update_script - INFO - Transformed 32 Pokémon cards
+2025-04-09 01:14:32,704 - update_script - INFO - Inserting 32 Pokémon cards into Supabase table 'pokemon_cards'
+2025-04-09 01:14:32,704 - update_script - ERROR - Exception during Pokémon card data insertion: Object of type TCGPlayer is not JSON serializable
+2025-04-09 01:14:32,705 - update_script - INFO - Update process completed. 0 records inserted.
+2025-04-09 01:15:52,452 - update_script - INFO - Starting data update process
+2025-04-09 01:15:52,453 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:15:54,249 - update_script - INFO - Successfully fetched 32 Pokémon cards
+2025-04-09 01:15:54,249 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:15:54,250 - update_script - INFO - Transformed 32 Pokémon cards
+2025-04-09 01:15:54,250 - update_script - INFO - Inserting 32 Pokémon cards into Supabase table 'pokemon_cards'
+2025-04-09 01:15:54,250 - update_script - ERROR - Exception during Pokémon card data insertion: Object of type TCGPlayer is not JSON serializable
+2025-04-09 01:15:54,250 - update_script - INFO - Update process completed. 0 records inserted.
+2025-04-09 01:28:23,497 - update_script - INFO - Starting data update process
+2025-04-09 01:28:23,498 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:28:25,327 - update_script - INFO - Successfully fetched 32 Pokémon cards
+2025-04-09 01:28:25,328 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:28:25,328 - update_script - ERROR - Error transforming Pokémon card data: 'TCGPrices' object is not iterable
+2025-04-09 01:28:25,328 - update_script - ERROR - Data transformation resulted in no records. Exiting.
+2025-04-09 01:33:11,139 - update_script - INFO - Starting data update process
+2025-04-09 01:33:11,139 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:33:12,747 - update_script - INFO - Successfully fetched 32 Pokémon cards
+2025-04-09 01:33:12,747 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:33:12,747 - update_script - INFO - Transformed 32 Pokémon cards
+2025-04-09 01:33:12,748 - update_script - INFO - Inserting 32 Pokémon cards into Supabase table 'pokemon_cards'
+2025-04-09 01:33:13,296 - update_script - ERROR - Error inserting Pokémon card data: 400 - {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'name' column of 'pokemon_cards' in the schema cache"}
+2025-04-09 01:33:13,298 - update_script - INFO - Update process completed. 0 records inserted.
+2025-04-09 01:34:04,301 - update_script - INFO - Starting data update process
+2025-04-09 01:34:04,301 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:34:06,006 - update_script - INFO - Successfully fetched 32 Pokémon cards
+2025-04-09 01:34:06,006 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:34:06,007 - update_script - INFO - Transformed 32 Pokémon cards
+2025-04-09 01:34:06,007 - update_script - INFO - Inserting 32 Pokémon cards into Supabase table 'pokemon_cards'
+2025-04-09 01:34:06,434 - update_script - ERROR - Error inserting Pokémon card data: 400 - {"code":"PGRST204","details":null,"hint":null,"message":"Could not find the 'supertype' column of 'pokemon_cards' in the schema cache"}
+2025-04-09 01:34:06,437 - update_script - INFO - Update process completed. 0 records inserted.
+2025-04-09 01:35:24,514 - update_script - INFO - Starting data update process
+2025-04-09 01:35:24,514 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:35:26,151 - update_script - INFO - Successfully fetched 32 Pokémon cards
+2025-04-09 01:35:26,152 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:35:26,152 - update_script - INFO - Transformed 32 Pokémon cards
+2025-04-09 01:35:26,152 - update_script - INFO - Inserting 32 Pokémon cards into Supabase table 'pokemon_cards'
+2025-04-09 01:35:26,662 - update_script - INFO - Successfully inserted 32 Pokémon card records
+2025-04-09 01:35:26,663 - update_script - INFO - Update process completed. 32 records inserted.
+2025-04-09 01:37:10,878 - update_script - INFO - Starting data update process
+2025-04-09 01:37:10,878 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:46:03,058 - update_script - INFO - Successfully fetched 18876 Pokémon cards
+2025-04-09 01:46:03,058 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:46:03,059 - update_script - ERROR - Error transforming Pokémon card data: 'NoneType' object has no attribute 'normal'
+2025-04-09 01:46:03,059 - update_script - ERROR - Data transformation resulted in no records. Exiting.
+2025-04-09 01:47:14,738 - update_script - INFO - Starting data update process
+2025-04-09 01:47:14,738 - update_script - INFO - Fetching Pokémon card data from the Pokémon TCG API
+2025-04-09 01:56:22,594 - update_script - INFO - Successfully fetched 18876 Pokémon cards
+2025-04-09 01:56:22,594 - update_script - INFO - Transforming Pokémon card data...
+2025-04-09 01:56:22,729 - update_script - INFO - Transformed 18876 Pokémon cards
+2025-04-09 01:56:22,730 - update_script - INFO - Inserting 18876 Pokémon cards into Supabase table 'pokemon_cards'
+2025-04-09 01:56:25,089 - update_script - INFO - Successfully inserted 18876 Pokémon card records
+2025-04-09 01:56:25,091 - update_script - INFO - Update process completed. 18876 records inserted.
